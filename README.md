@@ -25,4 +25,4 @@ This project is done by students:
 
 - [Gal dahan ](https://github.com/gal-dahan)
 - [Omri rahmani ](https://github.com/omri1001) 
-- Guy levy 
+- [Gai Levi ](https://github.com/GaiLevi) 
